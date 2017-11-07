@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--文字颜色-->
+    <color name="text_color">#ffffff</color>
+
+    <!-- 所有背景颜色 -->
+    <color name="common_white">#eeecdd</color>
+    <color name="select_photo_bg">#66000000</color>
+    <color name="select_photo_title_bg">#cc000000</color>
+</resources>
